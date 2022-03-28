@@ -39,5 +39,5 @@ Platform | Description
 [license]: https://github.com/betogontijo/homeassistant-espalexa/blob/main/LICENSE
 [license-shield]: https://img.shields.io/github/license/betogontijo/homeassistant-espalexa.svg?style=for-the-badge
 [releases-shield]: https://img.shields.io/github/release/betogontijo/homeassistant-espalexa.svg?style=for-the-badge
-[releases]: https://github.com/betogontijo/homeassitant-espalexa/releases
+[releases]: https://github.com/betogontijo/homeassistant-espalexa/releases
 [user_profile]: https://github.com/betogontijo
