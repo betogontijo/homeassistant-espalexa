@@ -1,0 +1,30 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "EspAlexa",
+                "description": "If you need help with the configuration have a look here: https://github.com/betogontijo/homeassistant-espalexa",
+                "data": {
+                    "host": "Host"
+                }
+            }
+        },
+        "error": {
+            "auth": "Invalid host."
+        },
+        "abort": {
+            "single_instance_allowed": "Only a single instance is allowed."
+        }
+    },
+    "options": {
+        "step": {
+            "user": {
+                "data": {
+                    "binary_sensor": "Binary sensor enabled",
+                    "sensor": "Sensor enabled",
+                    "switch": "Switch enabled"
+                }
+            }
+        }
+    }
+}
