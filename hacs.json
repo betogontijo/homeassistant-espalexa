@@ -1,0 +1,8 @@
+{
+    "name": "EspAlexa",
+    "hacs": "1.6.0",
+    "domains": [
+        "switch"
+    ],
+    "homeassistant": "0.118.0"
+}
